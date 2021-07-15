@@ -1,3 +1,11 @@
+import React from 'react'
+
+import {Combobox} from '../Combobox'
+
 export function App() {
-  return null
+  return (
+    <>
+      <Combobox />
+    </>
+  )
 }
